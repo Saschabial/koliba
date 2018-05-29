@@ -37,7 +37,8 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "Liste",
-        "Regen",
+        "Nebel",
+        "rot",
         "Sarg",
         "Lampe",
         "Mehl",
@@ -93,7 +94,8 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "Stiel",
-        "Neger",
+        "Leben",
+        "Tor",
         "Gras",
         "Ampel",
         "Lehm",
